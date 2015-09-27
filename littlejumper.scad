@@ -1,5 +1,6 @@
-
 use <jumperpart.scad>
+
+$fn=128;
 
 module littlejumper()
 {

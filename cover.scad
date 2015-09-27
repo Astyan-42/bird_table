@@ -1,3 +1,5 @@
+$fn=128;
+
 module oval(w, h, height, center)
 {
 	scale([1, h/w, 1]) cylinder(h=height, r=w, center=false);

@@ -1,5 +1,7 @@
 use <jumperpart.scad>
 
+$fn=128;
+
 module bigjumper()
 {
     union()
