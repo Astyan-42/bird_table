@@ -1,6 +1,7 @@
+include <properties.scad>
 $fn=128;
 
-radius = 4;;
+radius = 4;
 
 bend_radius = 40;
 
